@@ -6,12 +6,12 @@
    <elementGuidId>6610e0cc-1bd1-44cf-8f6a-378d9fe4b049</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#modalSubscribe > div.modal-dialog > div.modal-content > div.modal-header > button.close > span</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='modalSubscribe']/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modalSubscribe > div.modal-dialog > div.modal-content > div.modal-header > button.close > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

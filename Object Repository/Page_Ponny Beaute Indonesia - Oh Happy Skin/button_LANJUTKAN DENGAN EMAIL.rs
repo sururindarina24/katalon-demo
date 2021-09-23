@@ -6,12 +6,12 @@
    <elementGuidId>56365ada-cef6-4ca6-82f6-82bf08cce070</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#sign-in-next</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='sign-in-next']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sign-in-next</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

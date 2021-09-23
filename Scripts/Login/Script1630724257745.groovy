@@ -38,11 +38,6 @@ WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh H
 WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/a_LOGIN'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/input_Harap email anda_email_login'), 
-    'test@gmail.com')
-
-WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/button_LANJUTKAN DENGAN EMAIL'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/input_Harap email anda_email_login'), 
     'testingemail6@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/button_LANJUTKAN DENGAN EMAIL'))
@@ -54,11 +49,30 @@ WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh H
 
 WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/span_'))
 
-WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/a_LOGIN'))
+WebUI.setText(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/Page_Ponny Beaute Indonesia - Oh Happy Skin/input_KELUAR_q'), 
+    'test')
 
-WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/span_'))
+WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/Page_Ponny Beaute Indonesia - Oh Happy Skin/button_KELUAR_btn btn-danger search-btn'))
 
-WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/a_LOGIN'))
+WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/Page_Ponny Beaute Indonesia - Oh Happy Skin/div_ADD TO BAG'))
 
-WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/span_'))
+WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/Page_Ponny Beaute Indonesia - Oh Happy Skin/a_Proceed to Checkout'))
+
+WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/Page_Ponny Beaute Indonesia - Oh Happy Skin/div_Delivery                               _cd9b8e'))
+
+WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/Page_Ponny Beaute Indonesia - Oh Happy Skin/div_Dapatkan 2 sampel gratis               _d6ca0c'))
+
+WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/Page_Ponny Beaute Indonesia - Oh Happy Skin/i_Ganti                                    _7c43d4'))
+
+WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/Page_Ponny Beaute Indonesia - Oh Happy Skin/a_BELI                SEKARANG'))
+
+WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/Page_Ponny Beaute Indonesia - Oh Happy Skin/div_testing testing                        _69e49e'))
+
+WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/Page_Ponny Beaute Indonesia - Oh Happy Skin/span_Rp9.000_checkmark'))
+
+WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/Page_Ponny Beaute Indonesia - Oh Happy Skin/input_Rp3.415.000_submit'))
+
+WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/Page_Ponny Beaute Indonesia - Oh Happy Skin/span_METODE PEMBAYARAN_checkmark'))
+
+WebUI.click(findTestObject('Object Repository/Page_Ponny Beaute Indonesia - Oh Happy Skin/Page_Ponny Beaute Indonesia - Oh Happy Skin/button_BAYAR SEKARANG'))
 
